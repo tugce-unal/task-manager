@@ -49,5 +49,5 @@ npm run dev
 
 ## Ekran Görüntüleri
 
-![Login](screenshots/login.png)
-![Board](screenshots/board.png)
+![Login](screenshots/Login.png)
+![Board](screenshots/Board.png)
